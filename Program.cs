@@ -8,13 +8,11 @@ namespace Tc_final_project_jesse
         static void Main(string[] args)
         {
             Random random = new Random();
-            int RsbCom = random.Next(1, 3);
             Console.WriteLine("Would you like to start?");
             while (Console.ReadLine() == "yes"){
-            
+            int RsbCom = random.Next(1, 3);
             Console.WriteLine("Hey, dude choose rock, paper or scissors, (all lower case pls)");
             string Rsb = Console.ReadLine();
-            Console.WriteLine(RsbCom);
 
             List<string> nmLst = new List<string> { "rock", "paper", "scissors" };
 
@@ -60,15 +58,8 @@ namespace Tc_final_project_jesse
             //s 1
 
             Console.WriteLine("Would you like to play again?");
-            string yn = Console.ReadLine.
-
-            if (yn = "yes") {
-
-            }
-            else {
-                Console.WriteLine("Oh, ok then");
-                break;
-            }
+            continue;
+            
             
             }
         }
