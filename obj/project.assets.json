@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Tc-final-project-jesse\\Tc-final-project-jesse.csproj",
+      "projectUniqueName": "C:\\Users\\User\\jesse\\htc-final-project-Jessse\\Tc-final-project-jesse.csproj",
       "projectName": "Tc-final-project-jesse",
-      "projectPath": "C:\\Users\\User\\Desktop\\Tc-final-project-jesse\\Tc-final-project-jesse.csproj",
+      "projectPath": "C:\\Users\\User\\jesse\\htc-final-project-Jessse\\Tc-final-project-jesse.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Tc-final-project-jesse\\obj\\",
+      "outputPath": "C:\\Users\\User\\jesse\\htc-final-project-Jessse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

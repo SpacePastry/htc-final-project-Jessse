@@ -1,0 +1,11 @@
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.csprojAssemblyReference.cache
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.csproj.CoreCompileInputs.cache
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.AssemblyInfoInputs.cache
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.AssemblyInfo.cs
+C:\Users\User\jesse\htc-final-project-Jessse\bin\Debug\netcoreapp2.2\Tc-final-project-jesse.deps.json
+C:\Users\User\jesse\htc-final-project-Jessse\bin\Debug\netcoreapp2.2\Tc-final-project-jesse.runtimeconfig.json
+C:\Users\User\jesse\htc-final-project-Jessse\bin\Debug\netcoreapp2.2\Tc-final-project-jesse.runtimeconfig.dev.json
+C:\Users\User\jesse\htc-final-project-Jessse\bin\Debug\netcoreapp2.2\Tc-final-project-jesse.dll
+C:\Users\User\jesse\htc-final-project-Jessse\bin\Debug\netcoreapp2.2\Tc-final-project-jesse.pdb
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.dll
+C:\Users\User\jesse\htc-final-project-Jessse\obj\Debug\netcoreapp2.2\Tc-final-project-jesse.pdb
